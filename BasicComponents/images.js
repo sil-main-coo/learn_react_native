@@ -1,0 +1,1 @@
+export const imgAndroid = require('./assets/images/android.png'); 
